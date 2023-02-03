@@ -1,0 +1,8 @@
+{
+  "name": "catalog",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/catalog",
+    "ssh": "git@github.com:uttahb/catalog.git"
+  }
+}
